@@ -2,7 +2,7 @@
 > A backend for a FileProviderExtension iOS app.
 > This was created to power a sample project app for [RayWenderlich](https://www.raywenderlich.com).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/swiatrzyk/herokuTestDeployFileProvider)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/swiatrzyk/herokuTestDeployFileProvider/tree/master)
 
 ### Run locally
 
